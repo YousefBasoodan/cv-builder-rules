@@ -36,11 +36,7 @@ A great CV isn't about better words, it's about sharper focus. Lock one identity
 
 ## Using it as a Claude Skill
 
-You can use this two ways:
-
-**Option 1, as a prompt (works with any AI):** Just copy the contents of `prompts/cv-builder.md` and paste it as your first message to Claude, ChatGPT, Gemini, or any capable assistant. No setup needed. This is the simplest method.
-
-**Option 2, as a Claude Skill (Claude only):** The `SKILL.md` file is formatted as a Claude Skill, so you can add it to Claude's skills system to have it available automatically. Upload `SKILL.md` (and the `prompts/` folder alongside it) wherever Claude lets you add custom skills, following Anthropic's current instructions in the Claude documentation. Once added, Claude applies this method whenever you ask it to build or improve a CV.
+Beyond pasting the prompt (see "How to use it" above), the `SKILL.md` file is formatted as a Claude Skill. Upload `SKILL.md` and the `prompts/` folder wherever Claude lets you add custom skills, following Anthropic's current instructions in the Claude documentation. Once added, Claude applies this method automatically whenever you ask it to build or improve a CV.
 
 > Skill setup steps inside Claude's interface may change over time. If the steps differ from what you see here, check Anthropic's official documentation for the current way to add a custom skill.
 
