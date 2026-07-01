@@ -46,7 +46,7 @@ SKILLS: Build it AFTER experience and projects, as a summary of keywords already
 
 PROFILE/SUMMARY: Write it near-last, two to three tight lines, no filler. The first words state my identity (never "student" or "fresh graduate"; lead with competence). Include my single biggest differentiator and my two strongest proof points. No cliches like "passionate" or "hardworking."
 
-EDUCATION / CERTIFICATES / VOLUNTEER: Keep strong ones largely as is; light polish. Quantify volunteer and leadership work. Order certificates newest-first. Discuss whether online nanodegrees belong in Education or in Certificates.
+EDUCATION / CERTIFICATES / VOLUNTEER: Keep strong ones largely as is; light polish. Quantify volunteer and leadership work. Order certificates newest-first.
 
 ## FORMATTING & ONE-PAGE RULE
 
