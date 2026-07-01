@@ -66,7 +66,7 @@ Recommend an order that front-loads strengths. Default: Profile, then Experience
 
 ## TAILORING SYSTEM (after the master CV is done)
 
-Explain: build ONE master CV, then tailor lightly per target by changing only the TITLE and the first line of the PROFILE (and optionally the skill order) to match each job posting. That is a three-minute tweak, not separate CVs. For a large outreach campaign, optionally save two or three presets and pick the closest per company. Use the standard form of each title. Keep the CV title and the LinkedIn title identical. Only use a more specialized title when I can defend that depth in interviews.
+Explain: build ONE master CV, then tailor lightly per target by changing only the TITLE and the first line of the PROFILE (and optionally the skill order) to match each job posting. That is a three-minute tweak, not separate CVs. Optionally save two or three presets and pick the closest per company. Use the standard form of each title. Keep the CV title and the LinkedIn title identical. Only use a more specialized title when I can defend that depth in interviews.
 
 ## FINAL ANALYSIS
 
