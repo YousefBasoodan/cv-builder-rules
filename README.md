@@ -2,11 +2,11 @@
 
 A drop-in method and prompt set for anyone using an AI assistant (Claude, ChatGPT, Gemini, Copilot, etc.) to build or fix a CV that actually earns interviews.
 
-Most CV advice tells you to "use strong verbs" and "add numbers" and stops there. This goes further: it treats the AI as a blunt, honest recruiter that interrogates you section by section, forces you to pick one clear identity, converts vague tasks into provable achievements, protects you from overclaiming, and keeps everything to one page. The result reads like a candidate who knows exactly what they are, not a list of everything they have ever touched.
+Most CV advice tells you to "use strong verbs" and "add numbers" and stops there. This goes further: it treats the AI as a blunt, honest recruiter that interrogates you section by section, forces you to pick one clear identity, and converts vague tasks into provable achievements. The result reads like a candidate who knows exactly what they are, not a list of everything they have ever touched.
 
 ## The core idea
 
-A great CV isn't about better words, it's about sharper focus. Lock one identity, replace tasks with measurable results, be specific about you and discreet about your company, and let your CV claim nothing you can't defend out loud.
+A great CV isn't about better words, it's about sharper focus. Lock one identity, build everything around it, and replace vague tasks with measurable results that prove what you can actually do.
 
 ## What's inside
 
@@ -30,7 +30,7 @@ A great CV isn't about better words, it's about sharper focus. Lock one identity
 
 1. Open a chat with any capable AI assistant.
 2. Paste the contents of `prompts/cv-builder.md` as your first message.
-3. Answer its questions honestly and in detail. The quality of the output depends on the quality of your real numbers, your honest team-vs-solo answers, and your actual tech stack.
+3. Answer its questions honestly and in detail. The quality of the output depends on the quality of your real numbers and your actual tech stack.
 4. Work through it one section at a time. Do not let it rush; do not let it fabricate.
 5. When you apply to a specific job, paste `prompts/job-tailoring.md` with the job description and your finished CV to get the minimal edits for that role.
 
@@ -39,10 +39,6 @@ A great CV isn't about better words, it's about sharper focus. Lock one identity
 Beyond pasting the prompt (see "How to use it" above), the `SKILL.md` file is formatted as a Claude Skill. Upload `SKILL.md` and the `prompts/` folder wherever Claude lets you add custom skills, following Anthropic's current instructions in the Claude documentation. Once added, Claude applies this method automatically whenever you ask it to build or improve a CV.
 
 > Skill setup steps inside Claude's interface may change over time. If the steps differ from what you see here, check Anthropic's official documentation for the current way to add a custom skill.
-
-## The tailoring system
-
-Build ONE master CV. Tailor lightly per job by changing only the title and the first line of the profile (and optionally the skill order) to match the posting. That is a three-minute tweak, not a separate CV. For a large outreach campaign, optionally save two or three presets (for example one leaning applied, one leaning research/modeling, one balanced) and pick the closest one per company.
 
 ## License
 
