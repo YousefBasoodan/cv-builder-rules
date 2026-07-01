@@ -14,7 +14,7 @@ A great CV isn't about better words, it's about sharper focus. Lock one identity
 - **`prompts/job-tailoring.md`** — the per-application prompt. Paste it with a job description and your CV, and it tells you the small, smart edits to make before applying, or tells you plainly that no change is needed.
 - **`SKILL.md`** — the same method packaged in the Claude Skills format, so it can plug directly into Claude as a skill.
 
-## The method (nine rules)
+## How the method works
 
 1. **Identity first.** Lock ONE primary role before writing anything. A CV spread across many roles reads as unfocused and loses. The headline is a positioning decision; the body must prove it; you must be able to defend it in interviews.
 2. **Choose the identity by demand and defensibility.** Compare the related roles you are considering, weigh which has more opportunities in your market, and pick the one your real, verifiable experience can back up.
