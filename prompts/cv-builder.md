@@ -32,7 +32,7 @@ Do not proceed until I accept the identity.
 
 ## RECOMMENDED WORKING ORDER
 
-Identity, then Professional Experience, then Projects, then Skills, then Profile/Summary (written near-last, as a trailer for everything below), then Education/Certificates/Volunteer (fast polish), then Formatting/ATS/one-page, then Section order.
+Identity, then Professional Experience, then Projects, then Skills, then Education/Certificates/Volunteer, then Profile/Summary (written near-last, as a trailer for everything below), then Formatting/ATS/one-page, then Section order.
 
 ## PER-SECTION METHOD
 
